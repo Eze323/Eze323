@@ -21,6 +21,18 @@ Aquí encontrarás algunos de mis proyectos destacados:
 - Tecnologías y Herramientas: [Lista de tecnologías y herramientas en las que tienes experiencia]
 - Otros: [Cualquier otra habilidad o conocimiento relevante]
 
+Languages & Tools
+HTML5
+HTML5	CSS3
+CSS3	JavaScript
+JavaScript	React
+React
+Redux
+Redux	NodeJS
+Node.js	ExpressJS
+Express.js	Postgresql
+PostgreSQL
+
 ## Contacto
 
 - Correo electrónico: a.ezequielirace@gmail.com
