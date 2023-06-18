@@ -17,21 +17,8 @@ Aquí encontrarás algunos de mis proyectos destacados:
 
 ## Habilidades
 
-- Lenguajes de Programación: [Lista de lenguajes en los que tienes experiencia]
-- Tecnologías y Herramientas: [Lista de tecnologías y herramientas en las que tienes experiencia]
-- Otros: [Cualquier otra habilidad o conocimiento relevante]
-
-Languages & Tools
-HTML5
-HTML5	CSS3
-CSS3	JavaScript
-JavaScript	React
-React
-Redux
-Redux	NodeJS
-Node.js	ExpressJS
-Express.js	Postgresql
-PostgreSQL
+- Lenguajes de Programación:  JavaScript, PHP, SQL,	ExpressJS, PostgreSQL,
+- Tecnologías y Herramientas: HTML5 , CSS3, React, VUE, Redux, NodeJS, 
 
 ## Contacto
 
