@@ -48,18 +48,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=eze323&label=Profile%20views&color=0e75b6&style=flat" alt="eze323" /> 
 </p>
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=eze323" alt="eze323" />
   </a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a> 
@@ -117,7 +117,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eze323&show_icons=true&locale=en&layout=compact" alt="eze323" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eze323&show_icons=true&locale=en&layout=compact" alt="eze323" />
 </p>
 
 <p>&nbsp;
