@@ -5,7 +5,7 @@ Desarrollador Fullstack
 
 ## Acerca de mí
 
-<p align="center">Apasionado por lo que me gusta con experiencia en Javascript, React, CSS, Express, MongoDB, HTML5, VUEJS, NUXT. Me encanta aprender tecnologias nuevas para estar siempre a la vanguardia y disfruto enfrentando nuevos desafíos para aprender y crecer continuamente.</p>
+<p align="center">Apasionado por la tecnología, tengo experiencia en Javascript, React, CSS, Express, MongoDB, HTML5, VUEJS, NUXT. Me encanta aprender tecnologias nuevas para estar siempre a la vanguardia y disfruto enfrentando nuevos desafíos para aprender y crecer continuamente.</p>
 
 ## Proyectos Destacados
 
