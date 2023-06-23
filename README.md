@@ -1,11 +1,12 @@
 <h1 align="center">Hola 👋, soy Alberto Ezequiel Irace</h1>
-# Irace Alberto Ezequiel
-
-Desarrollador Fullstack
+<p align="center"># Irace Alberto Ezequiel</p>
+<p align="center">Desarrollador Fullstack</p>
 
 ## Acerca de mí
 
-<p align="center">Apasionado por la tecnología, tengo experiencia en Javascript, React, CSS, Express, MongoDB, HTML5, VUEJS, NUXT. Me encanta aprender tecnologias nuevas para estar siempre a la vanguardia y disfruto enfrentando nuevos desafíos para aprender y crecer continuamente.</p>
+<p align="center">Apasionado por la tecnología, tengo experiencia en Javascript, React, CSS, Express, MongoDB, HTML5, VUEJS, NUXT. Hoy en día me encuentro disfrutando de mis jornadas laborales en Pirelli.
+Finalizando el bootcamp en Henry y experimentando el maravilloso mundo del Full Stack Developer.
+#Javascript, #React, #CSS, #Express, #MongoDB, #HTML5, #VUEJS, #NUXT.</p>
 
 ## Proyectos Destacados
 
@@ -13,6 +14,7 @@ Aquí encontrarás algunos de mis proyectos destacados:
 
 - UrbanBuy [(enlace al proyecto](https://urbanbuy.netlify.app/)): 👯 Estuve colaborando en el proyecto Final y su relevancia.
 - Rick And Morty (enlace al proyecto): Breve descripción del proyecto y su relevancia.
+- Evil Puppy (enlace al proyecto): Proyecto individual.
 - Portfolio Personal (enlace al proyecto): Breve descripción del proyecto y su relevancia.
 
 ## Habilidades
