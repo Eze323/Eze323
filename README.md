@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Alberto Ezequiel Irace</h1>
 # Irace Alberto Ezequiel
 
-¡Hola! Soy Eze, desarrollador Fullstack orientado al diseño Front-end.
+Desarrollador Fullstack
 
 ## Acerca de mí
 
-<p align="center">Soy un apasionado con lo que me gusta con experiencia en Javascript, React, CSS, Express, MongoDB, HTML5. Me encanta aprender tecnologias nuevas para estar siempre a la vanguardia y disfruto enfrentando nuevos desafíos para aprender y crecer continuamente.</p>
+<p align="center">Apasionado por lo que me gusta con experiencia en Javascript, React, CSS, Express, MongoDB, HTML5, VUEJS, NUXT. Me encanta aprender tecnologias nuevas para estar siempre a la vanguardia y disfruto enfrentando nuevos desafíos para aprender y crecer continuamente.</p>
 
 ## Proyectos Destacados
 
@@ -54,15 +54,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=eze323" alt="eze323" />
   </a> 
-</p>
-
-
-
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alberto-ezequiel-irace/" height="30" width="40" />
-</a>
-<a href="https://fb.com/ezequie.irace" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ezequie.irace" height="30" width="40" />
-</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
