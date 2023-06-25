@@ -1,16 +1,11 @@
 <h1 align="center">Hola 👋, soy Alberto Ezequiel Irace</h1>
 <p align="center">Desarrollador Fullstack</p>
-<a href="https://twitter.com/Neel_3056">
-  <img align="left" alt="Neel's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+
 <a href="https://www.linkedin.com/in/alberto-ezequiel-irace/">
-  <img align="left" alt="Neel's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Eze's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Eze323">
-  <img align="left" alt="Ashwani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/eze_irace">
-  <img align="left" alt="Neel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Eze's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br>
 <br>
@@ -129,14 +124,12 @@ Here are some ideas to get you started:
   </a> 
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eze323&show_icons=true&locale=en&layout=compact" alt="eze323" />
-</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eze323&theme=radical&hide=glsl,python" />
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eze323&show_icons=true&locale=en" alt="eze323" />
-</p>
+<br>
+  <img src="https://github-readme-stats.vercel.app/api?username=eze323&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eze323&" alt="eze323" />
+
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eze323&show_icons=true&theme=radical" alt="eze323" />
 </p>
