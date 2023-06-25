@@ -135,19 +135,20 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eze323&show_icons=true&theme=radical" alt="eze323" />
 </p>
 
-### Maquina del mal:
+### Machine:
 <div display="flex center">
   <img src="https://img.shields.io/badge/windows-Ryzen%207%205700G-%23F50F0F.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/ubuntu-Intel%203rd%20Gen-%23dd4814.svg?&style=for-the-badge&logo=ubuntu&logoColor=white">
 </div>
 <br>
 
-### Gaming:
+### Old loves:
 <div display="flex">
   <img src="https://img.shields.io/badge/League%20Of%20Legends-%23000000.svg?&style=for-the-badge&logo=lolm&logoColor=white" />
-  <img src="https://img.shields.io/badge/epic%20games%20-%23000000.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dragon%20ball%20-%23000000.svg?&style=for-the-badge&%20games&logoColor=white"/>
   <img src="https://img.shields.io/badge/GTA5-%23000000.svg?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Call%20Of%20Duty%20WARZONE-%23000000.svg?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Metal%20Gear%20Solid-%23000000.svg?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Call%20Of%20Duty-%23000000.svg?&style=for-the-badge" />
 
   <img src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike" />
 </div>
