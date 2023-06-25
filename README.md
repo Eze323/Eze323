@@ -1,4 +1,6 @@
-<h1 align="center">Hola 👋, soy Alberto Ezequiel Irace</h1>
+<h1 align="center">Hola 👋, soy Alberto Ezequiel Irace 
+<img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px">
+  </h1>
 <p align="center">Desarrollador Fullstack</p>
 
 <a href="https://www.linkedin.com/in/alberto-ezequiel-irace/">
@@ -123,9 +125,6 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a> 
 </p>
-
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eze323&theme=radical&hide=glsl,python" />
 
@@ -135,3 +134,22 @@ Here are some ideas to get you started:
 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eze323&show_icons=true&theme=radical" alt="eze323" />
 </p>
+
+### Maquina del mal:
+<div display="flex center">
+  <img src="https://img.shields.io/badge/windows-Ryzen%207%205700G-%23F50F0F.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/ubuntu-Intel%203rd%20Gen-%23dd4814.svg?&style=for-the-badge&logo=ubuntu&logoColor=white">
+</div>
+<br>
+
+### Gaming:
+<div display="flex">
+  <img src="https://img.shields.io/badge/League%20Of%20Legends-%23000000.svg?&style=for-the-badge&logo=lolm&logoColor=white" />
+  <img src="https://img.shields.io/badge/epic%20games%20-%23000000.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GTA5-%23000000.svg?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Call%20Of%20Duty%20WARZONE-%23000000.svg?&style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike" />
+</div>
+<br>
+<img src="https://imgur.com/rilHVxA.png"/>
