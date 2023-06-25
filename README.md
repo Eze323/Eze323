@@ -1,6 +1,19 @@
 <h1 align="center">Hola 👋, soy Alberto Ezequiel Irace</h1>
-<p align="center"># Irace Alberto Ezequiel</p>
 <p align="center">Desarrollador Fullstack</p>
+<a href="https://twitter.com/Neel_3056">
+  <img align="left" alt="Neel's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/alberto-ezequiel-irace/">
+  <img align="left" alt="Neel's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Eze323">
+  <img align="left" alt="Ashwani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/eze_irace">
+  <img align="left" alt="Neel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br>
+<br>
 
 ## Acerca de mí
 
